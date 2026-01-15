@@ -1,4 +1,4 @@
-Phase 1: Semantic Normalization 🧱
+Phase 1: Semantic Normalization 
 Description
 
 Semantic normalization focused on improving the interpretability and consistency of categorical variables across the dataset.
@@ -21,7 +21,7 @@ Consistent across records
 
 Suitable for grouping, filtering, and visualization
 
-Phase 2: Structural Cleaning 🧹
+Phase 2: Structural Cleaning
 Description
 
 Structural cleaning aimed to reduce dataset complexity by removing columns that contributed little analytical value or contained excessive missing data.
@@ -44,7 +44,7 @@ Improve computational efficiency
 
 Focus analysis on meaningful attributes
 
-Phase 3: Logical Imputation 🧠
+Phase 3: Logical Imputation 
 Description
 
 Instead of arbitrary value imputation, domain-informed logic was used to preserve records while maintaining data integrity.
@@ -67,7 +67,7 @@ Avoid fabricating new data
 
 Maintain logical relationships between related fields
 
-Phase 4: Quality Filtering ✂️
+Phase 4: Quality Filtering 
 Description
 
 Rows that failed to meet minimum quality thresholds were removed to ensure analytical reliability.
@@ -92,7 +92,7 @@ Reliable for aggregation and modeling
 
 Suitable for geographic and financial insights
 
-Phase 5: Type Enforcement 🔢
+Phase 5: Type Enforcement 
 Description
 
 Data types were explicitly enforced after cleaning to guarantee consistency and downstream compatibility.
@@ -113,7 +113,7 @@ Improve performance
 
 Prepare the dataset for modeling, SQL ingestion, and BI tools
 
-Phase 6: Final Validation 📦
+Phase 6: Final Validation 
 Description
 
 A final validation step was performed to confirm the integrity of the cleaned dataset.
